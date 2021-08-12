@@ -44,15 +44,16 @@ li:hover{
     float:left;
     width:50%;
     padding:20px;
-    height:150px;
+    height:250px;
     position:relative;
 
 }
 
+
 .component p{
     position:absolute;
-    top:100px;
-    width:80px;
+    top:220px;
+    width:40px;
     display:inline-block;
     
 }
@@ -68,7 +69,7 @@ li:hover{
     background-image:url(zekkei2.jpg);
     background-size:cover;
     font-size:35px;
-    height:500px;
+    height:800px;
     padding: 180px 0 100px 0;
 
 }
@@ -80,7 +81,7 @@ li:hover{
 
 .medium-wrapper{
     padding: 180px 0 100px 0;
-    height:500px;
+    height:800px;
 
 }
     
