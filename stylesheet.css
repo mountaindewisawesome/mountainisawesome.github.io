@@ -35,11 +35,13 @@ header img{
     background-size:cover;
     font-size:35px;
     height:500px;
+    padding: 180px 0 100px 0;
 
 }
 
 .medium-wrapper{
     background-color:cadetblue;
+    padding: 180px 0 100px 0;
     height:500px;
 
 }
