@@ -31,11 +31,13 @@ header img{
     width:50%;
 }
 .top-wrapper{
+    background-color:bisque;
     height:200px;
 
 }
 
 .medium-wrapper{
+    background-color:cadetblue;
     height:200px;
 
 }
