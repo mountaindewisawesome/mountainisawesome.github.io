@@ -1,101 +1,105 @@
-*{
-    box-sizing:border-box;
-}
+    *{
+        box-sizing:border-box;
+    }
 
-body {
-    font-family: "Avenir Next";
-  }
+    body {
+        font-family: "Avenir Next";
+    }
 
-header{
-    background-color:aqua;
-    color:black;
-    height:80px;
-    width:100%;
-    position:fixed;
-    top:0;
-}
+    header{
+        background-color:aqua;
+        color:black;
+        height:80px;
+        width:100%;
+        position:fixed;
+        top:0;
+    }
 
-li{
-    list-style:none;
-    float:left;
-    margin:15px 30px;
-}
+    li{
+        list-style:none;
+        float:left;
+        margin:15px 30px;
+    }
 
-li:hover{
-    color:red;
-    cursor:pointer;
-}
-    
-.header-list li{
-    font-size:15px;
-    float:left;
-    padding:30px 20px;
-}
-    
-.header-logo{
-    float:left;
-    font-size:100px;
-    font-weight:bold;
+    li:hover{
+        color:red;
+        cursor:pointer;
+    }
+        
+    .header-list li{
+        font-size:15px;
+        float:left;
+        padding:30px 20px;
+    }
+        
+    .header-logo{
+        float:left;
+        font-size:100px;
+        font-weight:bold;
 
-}
-
-
-.component{
-    float:left;
-    width:50%;
-    padding:70px;
-    height:250px;
-    position:relative;
-    margin-bottom:200px;
-
-}
+    }
 
 
-.component p{
-    position:absolute;
-    top:220px;
-    width:40px;
-    display:inline-block;
-    
-}
+    .component{
+        float:left;
+        width:50%;
+        padding:70px;
+        height:250px;
+        position:relative;
+        margin-bottom:200px;
 
+    }
 
+    .component img{
+        border:3px solid black;
+        margin:10px;
+    }
 
-.component p:hover{
-    color:blue;
-    cursor:pointer;
-    
-}
-.top-wrapper{
-    background-image:url(zekkei2.jpg);
-    background-size:cover;
-    font-size:35px;
-    height:500px;
-    padding: 180px 0 100px 0;
-
-}
-
-.top-wrapper p {
-    text-align:center;
-    letter-spacing:5px;
-}
-
-.medium-wrapper{
-    padding: 180px 0 100px 0;
-    height:2000px;
-
-}
-    
-footer{
-    background-color:aqua;
-    color:black;
-    height:80px;
-}
+    .component p{
+        position:absolute;
+        top:220px;
+        width:40px;
+        display:inline-block;
+        
+    }
 
 
 
-footer p{
-    text-align:center;
-    font-size:30px;
+    .component p:hover{
+        color:blue;
+        cursor:pointer;
+        
+    }
+    .top-wrapper{
+        background-image:url(zekkei2.jpg);
+        background-size:cover;
+        font-size:35px;
+        height:500px;
+        padding: 180px 0 100px 0;
 
-}
+    }
+
+    .top-wrapper p {
+        text-align:center;
+        letter-spacing:5px;
+    }
+
+    .medium-wrapper{
+        padding: 180px 0 100px 0;
+        height:2000px;
+
+    }
+        
+    footer{
+        background-color:aqua;
+        color:black;
+        height:80px;
+    }
+
+
+
+    footer p{
+        text-align:center;
+        font-size:30px;
+
+    }
