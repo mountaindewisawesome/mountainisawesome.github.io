@@ -31,6 +31,7 @@ li{
 .component{
     float:left;
     width:50%;
+    background-color: cornsilk;
 }
 .top-wrapper{
     background-image:url(zekkei2.jpg);
@@ -47,7 +48,7 @@ li{
 }
 
 .medium-wrapper{
-    background-color:cadetblue;
+    background-color:beige;
     padding: 180px 0 100px 0;
     height:500px;
 
