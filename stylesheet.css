@@ -57,9 +57,10 @@ li:hover{
 
 .component p{
     position:absolute;
-    top:220px;
-    width:40px;
+    top:280px;
+    left:130px;
     display:inline-block;
+    
     
 }
 
