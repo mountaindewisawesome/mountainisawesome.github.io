@@ -41,6 +41,11 @@ li{
 
 }
 
+.top-wrapper p {
+    text-align:center;
+    letter-spacing:5px;
+}
+
 .medium-wrapper{
     background-color:cadetblue;
     padding: 180px 0 100px 0;
