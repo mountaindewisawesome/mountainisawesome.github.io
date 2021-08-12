@@ -31,7 +31,9 @@ header img{
     width:50%;
 }
 .top-wrapper{
-    background-color:bisque;
+    background-image:url(zekkei2.jpg);
+    background-size:cover;
+    font-size:35px;
     height:200px;
 
 }
