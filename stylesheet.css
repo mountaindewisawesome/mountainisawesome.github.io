@@ -10,6 +10,8 @@ header{
 
 li{
     list-style:none;
+    float:left;
+    margin:15px 30px;
 }
     
 .header-list li{
@@ -29,12 +31,12 @@ header img{
     width:50%;
 }
 .top-wrapper{
-    height:100px;
+    height:200px;
 
 }
 
 .medium-wrapper{
-    height:100px;
+    height:200px;
 
 }
     
